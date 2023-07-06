@@ -24,6 +24,6 @@ Base URL : https://metashopjo.net/app/
 End point : get-product
 
 Body : Form data {
-'pid': '207' 
+'pid': '207', 
 'uid': '43'
 }
