@@ -1,12 +1,12 @@
-# flutter_task
+# Flutter Task
 
 # This task has been forwarded by Blue Ray for Web solutions flutter team
 
 # The applicant should use
 
-# - GetX as the state management
+- GetX as the state management
 
-# - MVC as a Design pattern
+- MVC as a Design pattern
 
 Please refer to the assets folder for the design
 - Cover image 
