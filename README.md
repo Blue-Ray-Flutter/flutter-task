@@ -10,7 +10,7 @@
 Please refer to the assets folder for the design
 - Cover image 
 - List of images 
-- Body (text)
+- Body (scrollable text)
 - Background (white color)
 - The cover image will display the selected image from the list 
 
