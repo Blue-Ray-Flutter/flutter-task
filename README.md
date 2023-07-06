@@ -1,16 +1,27 @@
 # flutter_task
 
-This task has been forwarded by Blue Ray for Web solutions flutter team
+# This task has been forwarded by Blue Ray for Web solutions flutter team
 
-## Getting Started
+# The applicant should use
 
-This project is a starting point for a Flutter application.
+# - GetX as the state management
+# - MVC as a Design pattern
 
-A few resources to get you started if this is your first Flutter project:
+Please refer to the assets folder for the design
+- Cover image 
+- List of images 
+- Body (text)
+- Background (white color)
+- The cover image will display the selected image from the list 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The API will be as below 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Request type : Post 
+
+Base URL : https://metashopjo.net/app/
+End point : get-product
+
+Body : Form data {
+'pid': '207' 
+'uid': '43'
+}
